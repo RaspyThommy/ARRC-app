@@ -1,0 +1,82 @@
+INFO:webSockReciver
+	Server is ready to accept
+INFO:webSockStreaming
+	Server is ready to accept
+INFO:webSockStreaming
+	[IN]  CONNECTION: ('192.168.1.200', 1500)
+INFO:webSockStreaming
+	Server is ready to accept
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-4
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-4
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-5
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-5
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-6
+	[IN]  TEXT: ('192.168.1.200', 1501) - 'Macro:5/Left/Left/Back/Forward/Forward'
+INFO:Thread-6
+	[IN]  TEXT: ('192.168.1.200', 1501) - 'Macro:Stop:undefined'
+INFO:Thread-6
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-6
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-7
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-7
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-8
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-8
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-9
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-9
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-10
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-10
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+INFO:Thread-11
+	[IN]  CLOSE: ('192.168.1.200', 1501)
+CRITICAL:Thread-11
+	Received Invalid Data Frame
+INFO:webSockReciver
+	[IN]  CONNECTION: ('192.168.1.200', 1501)
+INFO:webSockReciver
+	Server is ready to accept
+CRITICAL:Thread-12
+	Received Invalid Data Frame
