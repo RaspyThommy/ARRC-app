@@ -56,28 +56,3 @@ This is the circuit project
 	download the phonegap folder. Open an android phone emulator and on termial write:
 		`phonegap run android`
 	
-
-id: 47d6570e6cb44d5fa83741a37a0f8789
-parent_id: abccc62e94bb44a6b605a61d9cb608dc
-created_time: 2020-05-08T12:43:55.065Z
-updated_time: 2020-05-08T13:28:07.953Z
-is_conflict: 0
-latitude: 45.46810000
-longitude: 9.20110000
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2020-05-08T12:43:55.065Z
-user_updated_time: 2020-05-08T13:28:07.953Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-type_: 1
