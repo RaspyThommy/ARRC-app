@@ -1,6 +1,6 @@
 ARRC-app
 
-## **Android-phonegap robot controler**
+## **Android-phonegap robot controller**
 This is an android and phonegap app that allows to control a robot built with a 3D printer ([Trendy (3&D)](https://www.google.com/maps/place/Trendy+(3%26D)/@45.450429,9.2187614,17z/data=!3m1!4b1!4m5!3m4!1s0x4786c5d95862bab9:0x810914cd302afcd9!8m2!3d45.4504253!4d9.2209501?hl=it)) run by a python server.
 
 **Requirement**
